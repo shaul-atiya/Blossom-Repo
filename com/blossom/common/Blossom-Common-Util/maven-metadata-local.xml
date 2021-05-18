@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.blossom.common</groupId>
+  <artifactId>Blossom-Common-Util</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20210518190008</lastUpdated>
+  </versioning>
+</metadata>
